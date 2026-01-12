@@ -8,7 +8,7 @@
 
 ### 💼 About Me  
 
-🚀 **Currently Working On:** Video & Image Captions Generator  
+🚀 **Currently Working On:** Image Captions Generator  
 🧠 **Learning:** Natural Language Processing (NLP), Computer Vision & Generative AI  
 🤝 **Collaboration Interests:** Machine Learning & Deep Learning Projects  
 📧 **Reach Me At:** [msabtainkhan131@gmail.com](mailto:msabtainkhan131@gmail.com)  
