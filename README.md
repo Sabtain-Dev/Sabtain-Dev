@@ -8,8 +8,9 @@
 
 ### 💼 About Me  
 
-🚀 **Currently Working On:** Image Captions Generator  
-🧠 **Learning:** Natural Language Processing (NLP), Computer Vision & Generative AI  
+🚀 **Currently Working On:** Pashto Speech-to-Text System (fine-tuning OpenAI Whisper at Sybrid Pvt. Ltd.)  
+🧠 **Learning:** Generative AI, FastAPI, Docker, MLOps & LLM deployment
+
 🤝 **Collaboration Interests:** Machine Learning & Deep Learning Projects  
 📧 **Reach Me At:** [msabtainkhan131@gmail.com](mailto:msabtainkhan131@gmail.com)  
 💡 **Fun Fact:** I find solving tough bugs oddly satisfying 😄  
@@ -58,6 +59,14 @@
 
 ---
 
+### 📜 Certifications
+- Introduction to Git and GitHub — Google
+- Open-Source AI Models — Scrimba
+- Natural Language Processing in TensorFlow — DeepLearning.AI
+- Convolutional Neural Networks in TensorFlow — DeepLearning.AI  
+- Introduction to TensorFlow for AI, ML & DL — DeepLearning.AI
+
+---
 ### 📊 GitHub Overview:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sabtain-dev&show_icons=true&locale=en" alt="sabtain-dev" width="48%"/>
