@@ -12,6 +12,8 @@
   <img src="https://komarev.com/ghpvc/?username=Sabtain-Dev&label=Profile%20Views&color=2ea043&style=for-the-badge" alt="Profile Views"/>
 </p>
 
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FSabtain-Dev&style=plastic)](https://rankistan.dev/#Sabtain-Dev)
+
 ### 🚀 About Me
 
 I'm Muhammad Sabtain Khan, a Machine Learning Engineer passionate about building AI solutions using Machine Learning, NLP, Speech AI, and Generative AI. I enjoy taking projects from model training and fine-tuning to deployment using tools like FastAPI, Docker, and MLOps. My goal is to build AI systems that solve real-world problems.
