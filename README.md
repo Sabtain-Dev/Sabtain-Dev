@@ -18,11 +18,11 @@
 
 I'm Muhammad Sabtain Khan, a Machine Learning Engineer passionate about building AI solutions using Machine Learning, NLP, Speech AI, and Generative AI. I enjoy taking projects from model training and fine-tuning to deployment using tools like FastAPI, Docker, and MLOps. My goal is to build AI systems that solve real-world problems.
 
-🔭 &nbsp;I'm currently working on **Building a RAG chatbot for an e-commerce website.**  
-🌱 &nbsp;I'm currently learning **LLMs, RAG, MLOps, AI Agents, and AI deployment.**  
+🔭 &nbsp;I'm currently working on **Building an app for an e-commerce website.**  
+🌱 &nbsp;I'm currently learning **MLOps, AI Agents, and AI deployment.**  
 👯 &nbsp;I'm looking to collaborate on **Machine Learning, NLP, Speech AI, and Generative AI projects.**  
 🤔 &nbsp;I'm looking for help with **AI Agents, vector databases, and production AI systems.**  
-💬 &nbsp;Ask me about **OpenAI Whisper, FastAPI, Docker, Python, and Speech-to-Text.**  
+💬 &nbsp;Ask me about **OpenAI Whisper, FastAPI, RAG, Docker, Python, and Speech-to-Text.**  
 😄 &nbsp;Pronouns: **He/Him**  
 ⚡ &nbsp;Fun fact: **I enjoy solving challenging bugs and improving AI systems.**
 
