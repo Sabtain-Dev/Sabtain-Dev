@@ -64,21 +64,12 @@ I'm Muhammad Sabtain Khan, a Machine Learning Engineer passionate about building
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Sabtain-Dev&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Sabtain-Dev&theme=tokyonight&hide_border=true&background=00000000&stroke=2ea043&ring=2ea043&fire=2ea043&currStreakLabel=2ea043" alt="GitHub Streak" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Sabtain-Dev&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Sabtain-Dev&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=false&border_color=2ea043&bg_color=00000000&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Sabtain-Dev&theme=tokyonight&hide_border=false&background=00000000&border=2ea043&stroke=2ea043&ring=2ea043&fire=2ea043&currStreakLabel=2ea043" alt="GitHub Streak" />
 </p>
 
-### 📈 Contribution Graph
-
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sabtain-Dev&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=campusx-official&custom_title=Most%20Used%20Languages&theme=tokyonight&title_color=2ea043&text_color=c9d1d9&hide_border=false&border_color=2ea043&bg_color=00000000&langs_count=5" alt="Most Used Languages" />
 </p>
 
 ---
