@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sabtain-Dev&label=Profile%20Views&color=2ea043&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FSabtain-Dev&style=plastic)](https://rankistan.dev/#Sabtain-Dev)
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FSabtain-Dev&style=plastic)](https://rankistan.dev/#Sabtain-Dev) [![Sabtain-Dev Portfolio](https://img.shields.io/badge/Sabtain--Dev%20Portfolio-Live-blueviolet?style=plastic)](https://sabtaindev.pages.dev/)
 
 ### 🚀 About Me
 
@@ -63,14 +63,15 @@ I'm Muhammad Sabtain Khan, a Machine Learning Engineer passionate about building
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Sabtain-Dev&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=false&border_color=2ea043&bg_color=00000000&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Sabtain-Dev&theme=tokyonight&hide_border=false&background=00000000&border=2ea043&stroke=2ea043&ring=2ea043&fire=2ea043&currStreakLabel=2ea043" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=campusx-official&custom_title=Most%20Used%20Languages&theme=tokyonight&title_color=2ea043&text_color=c9d1d9&hide_border=false&border_color=2ea043&bg_color=00000000&langs_count=5" alt="Most Used Languages" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%" rowspan="2"><img src="https://ghstats.dev/api/card?username=Sabtain-Dev&amp;theme=ayu" alt="GitHub Stats Card" width="100%" /></td>
+    <td align="center" valign="top" width="50%"><img src="https://ghstats.dev/api/langs?username=Sabtain-Dev&amp;theme=ayu&amp;layout=donut" alt="Top Languages" width="100%" /></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%"><img src="https://ghstats.dev/api/sparkline?username=Sabtain-Dev&amp;theme=ayu&amp;days=30&amp;width=500&amp;height=100" alt="Contribution Graph" width="100%" /></td>
+  </tr>
+</table>
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Sabtain-Dev">Sabtain-Dev</a></i></p>
